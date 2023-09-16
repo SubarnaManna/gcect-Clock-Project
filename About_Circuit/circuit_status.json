@@ -1,0 +1,16 @@
+{
+    "Test Date":"09-04-2023",
+    "Testing Start Time":"01:50 PM",
+    "Testing End Time":"03:50 PM",
+    "Is any issue during testing time":"No",
+    "Heating Activity":{
+        "ULN2003 IC [connected to seven segment Cathode]":"Maximum Heated",
+        "ULN2003 IC [connected to seven segment Anode]":"normal Temparature" ,
+        "BC369 Transistor":"Minimum Heated",
+        "Resistor":"Normal Temparature"
+    },
+    "Currents":{
+        "12V 2A Adapter":"0.37A to 0.42A",
+        "5V Charger":"0.00A"
+    }
+}

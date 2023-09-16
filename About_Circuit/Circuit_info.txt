@@ -1,0 +1,54 @@
+
+
+
+
+
+        a
+     _______
+    |       |
+  f |       | b
+    |_______|
+    |   g   |
+  e |       | c
+    |_______|
+        d
+
+    
+a = violet pin 
+b = green pin
+c = yellow pin
+d = orange pin
+e = red pin
+f = blue pin
+g = brown pin
+
+**************** Arduino Digital Pin Connections **************** 
+----------- Data Pins [Cathode] -----------
+a = 7
+b = 5
+c = 4
+d = 3
+e = 2
+f = 6
+g = 1
+
+----------- Selection pins [Anode] -----------
+display-1 = not connected 
+display-2 = 10
+display-3 = 9
+display-4 = 8
+
+
+// ------------------ Arduino Version ------------------
+const int a = 7;
+const int b = 5;
+const int c = 4;
+const int d = 3;
+const int e = 2;
+const int f = 6;
+const int g = 1;
+
+const int D1 = 11;
+const int D2 = 10;
+const int D3 = 9;
+const int D4 = 8;
